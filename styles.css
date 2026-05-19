@@ -1,0 +1,17 @@
+body {
+    color:burlywood;
+    border: 2px;
+    padding: auto;
+}
+
+h1 {
+    color:coral;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+
+p {
+    color:black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+}
