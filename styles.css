@@ -2,6 +2,7 @@ body {
     color:burlywood;
     border: 2px;
     padding: auto;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 h1 {
@@ -14,4 +15,7 @@ p {
     color:black;
     font-family: 'Courier New', Courier, monospace;
     font-size: medium;
+}
+title {
+    font-family: 'Courier New', Courier, monospace;
 }
